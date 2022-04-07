@@ -1,4 +1,4 @@
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">Developer</a></p>
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">Developer</a></p>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+there+%F0%9F%91%8B;I'm+Toyosi+Taiwo+%F0%9F%98%84;I'm+a+Software+Developer+%E2%9C%A8;Nice+to+meet+you+%F0%9F%A4%9D)](https://git.io/typing-svg)
@@ -15,7 +15,7 @@
 
 - 💻 Fun-fact: "Code is like humor. When you have to explain it, it’s bad"
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yorsyboy" alt="yorsboy" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yorsyboy&theme=nord&row=1&column=6" alt="yorsboy" /></a> </p>
 
 <h3 align="left"> Languages and Tools:<h3>
 <p> 
@@ -25,7 +25,7 @@
    <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
    </p>
 
-    <p >
+<p>
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yorsyboy&show_icons=true&locale=en&theme=tokyonight" alt="Yorsyboy" />
    </p>
 
