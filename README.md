@@ -1,4 +1,4 @@
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">Developer</a></p>
+<img alt="Person coding gif" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="250" width="320" /> 
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+there+%F0%9F%91%8B;I'm+Toyosi+Taiwo+%F0%9F%98%84;I'm+a+Software+Developer+%E2%9C%A8;Nice+to+meet+you+%F0%9F%A4%9D)](https://git.io/typing-svg)
