@@ -1,7 +1,6 @@
-<img alt="Person coding gif" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="250" width="320" /> 
-
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+there+%F0%9F%91%8B;I'm+Toyosi+Taiwo+%F0%9F%98%84;I'm+a+Software+Developer+%E2%9C%A8;Nice+to+meet+you+%F0%9F%A4%9D)](https://git.io/typing-svg)
+
+<img align='center' alt="Person coding gif" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="250" width="320" /> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Yorsyboy&label=Profile%20views&color=0e75b6&style=flat" alt="Yorsyboy" /> </p>
 
