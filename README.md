@@ -8,7 +8,7 @@
 
 <h3 align="left">A Full-stack Developer, and a <a href="https://www.microverse.org/?grsf=n05ptr">Microverse</a> student 📖.</h3>
 
-- 👨🏾‍💻 I’m currently learning *JavaScript, React*
+- 👨🏾‍💻 I’m currently learning *JavaScript, React and Ruby on Rails*
 
 - 📫 How to reach me **adekunletaiwo43@yahoo.com**
 
