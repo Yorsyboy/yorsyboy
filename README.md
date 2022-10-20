@@ -27,8 +27,8 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/>
-  <img style="margin: 10px" src="https://skillicons.dev/icons?i=postgres" alt="postgres"  width="40px" />
-   <img style="margin: 10px" src="https://skillicons.dev/icons?i=tailwind" alt="tailwind"  width="40px" />
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg" alt="netlify" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" alt="netlify" width="40" height="40"/>
    </p>
 
    <p align="center>
