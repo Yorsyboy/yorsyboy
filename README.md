@@ -29,7 +29,7 @@
   <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg" alt="netlify" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" alt="netlify" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="firebase" width="40" height="40"/>
    </p>
 
 ### Connect :incoming_envelope:
