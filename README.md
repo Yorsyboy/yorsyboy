@@ -6,15 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Yorsyboy&label=Profile%20views&color=0e75b6&style=flat" alt="Yorsyboy" /> </p>
 
-<h3 align="left">A Full-stack Developer, and a <a href="https://www.microverse.org/?grsf=n05ptr">Microverse</a> student 📖.</h3>
+<h3 align="left">A Full-stack Developer, and a <a href="https://www.microverse.org/?grsf=n05ptr">Microverse</a> graduate 📖.</h3>
 
-- 👨🏾‍💻 I’m currently learning _JavaScript, React and Ruby on Rails_
+- 👨🏾‍💻 I’m skilled JavaScript, React and Ruby on Rails_
 
 - 📫 How to reach me **adekunletaiwo43@yahoo.com**
 
 - ⚡ Fact: "Learning how to code is slowly becoming like learning how to write."
-
-- 💻 Fun-fact: "Code is like humor. When you have to explain it, it’s bad"
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yorsyboy&theme=nord&row=1&column=6" alt="yorsboy" /></a> </p>
 
