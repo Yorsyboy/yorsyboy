@@ -8,7 +8,7 @@
 
 <h3 align="left">A Full-stack Developer, and a <a href="https://www.microverse.org/?grsf=n05ptr">Microverse</a> graduate 📖.</h3>
 
-- 👨🏾‍💻 I’m skilled JavaScript, React and Ruby on Rails_
+- 👨🏾‍💻 I’m skilled in JavaScript, React and Ruby on Rails_
 
 - 📫 How to reach me **adekunletaiwo43@yahoo.com**
 
