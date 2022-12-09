@@ -14,7 +14,7 @@
 
 - Currently learning NextJs.
 
-- 📫 How to reach me **adekunletaiwo43@yahoo.com**
+- 📫 How to reach me via mail **adekunletaiwo43@yahoo.com**
 
 - ⚡ Fact: "Learning how to code is slowly becoming like learning how to write."
 
