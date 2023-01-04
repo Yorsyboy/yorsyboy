@@ -12,8 +12,6 @@
 
 - 👨🏾‍💻 I’m skilled in JavaScript, React, Node and Ruby on Rails.
 
-- Currently learning NextJs.
-
 - 📫 How to reach me via mail **adekunletaiwo43@yahoo.com**
 
 - ⚡ Fact: "Learning how to code is slowly becoming like learning how to write."
