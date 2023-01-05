@@ -39,7 +39,5 @@
 <p align="left">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yorsyboy&show_icons=true&locale=en&theme=tokyonight" alt="Yorsyboy" />
 
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yorsyboy&theme=tokyonight" alt="Yorsyboy" />
-
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yorsyboy&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Yorsyboy" />
    </p>
