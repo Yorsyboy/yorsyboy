@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Yorsyboy&label=Profile%20views&color=0e75b6&style=flat" alt="Yorsyboy" /> </p>
 
-<h3 align="left">A Full-stack Developer, and a <a href="https://www.microverse.org/?grsf=n05ptr">Microverse</a> graduate 📖.</h3>
+<h3 align="left">A Full-stack Developer, and a <a href="https://www.microverse.org/?grsf=n05ptr">Microverse</a> graduate 📖</h3>
 
 - 👨🏾‍💻 I’m skilled in JavaScript, React, Node and Ruby on Rails.
 
