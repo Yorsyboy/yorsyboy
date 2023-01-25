@@ -4,7 +4,7 @@
 
 <img align='right' alt="Person coding gif" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="250" width="320" />
 
-<Br/>
+<Br/><Br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Yorsyboy&label=Profile%20views&color=0e75b6&style=flat" alt="Yorsyboy" /> </p>
 
