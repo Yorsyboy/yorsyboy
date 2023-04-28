@@ -10,11 +10,11 @@
 
 <h3 align="left">A Full-stack Developer, and a <a href="https://www.microverse.org/?grsf=n05ptr">Microverse</a> graduate 📖</h3>
 
-- 👨🏾‍💻 I’m skilled in JavaScript, ReactJs, NextJs, Nodejs and Ruby on Rails.
+- 👨🏾‍💻 I’m skilled in JavaScript, ReactJs, NextJs, Nodejs and Ruby on Rails
 
 - 📫 How to reach me via mail **adekunletaiwo43@yahoo.com**
 
-- ⚡ Fact: "Learning how to code is slowly becoming like learning how to write."
+- ⚡ Fact: "Learning how to code is slowly becoming like learning how to write"
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yorsyboy&theme=nord&row=1&column=6" alt="yorsboy" /></a> </p>
 
