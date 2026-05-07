@@ -12,14 +12,14 @@
 
 ### 🚀 Featured Projects
 
-**[OlAAN Global Academy](https://olaanglobalassociates.org)** — Full-Stack Developer
-A global education platform for learners, educators, and institutions. Built the front end in React + TypeScript and a high-availability back end with Node.js, Express, and MongoDB. Caching strategies cut server response latency significantly.
+**[BetaPlus International](https://betaplusint.com)** — IT Analyst & Web Developer
+Corporate website and digital presence for BetaPlus and its subsidiaries. Built and maintained the front end with a focus on performance, achieving **40% faster page-load times** and a smoother user experience across all subsidiary sites.
 
 **[Dinero Apartments](https://dineroapartments.com)** — Front-End Lead
 Real-time short-term rental booking platform. Integrated RESTful APIs for live availability and payment processing; optimised front-end performance through state management, lazy loading, and image compression.
 
-**[Neeorlarneedles](https://neeorlarneedles.com)** — Lead Developer
-Full e-commerce storefront with product catalogue, cart, secure checkout, and payment gateway integration. Mobile-first responsive design with search, filtering, and promotions.
+**[OlAAN Global](https://olaanglobalassociates.com)** — Full-Stack Developer
+A global education platform for learners, educators, and institutions. Built the front end in React + TypeScript and a high-availability back end with Node.js, Express, and MongoDB. Caching strategies cut server response latency significantly.
 
 > Across these projects: **40% improvement in page-load times** and **20% lift in client conversion rates.**
 
@@ -27,31 +27,42 @@ Full e-commerce storefront with product catalogue, cart, secure checkout, and pa
 
 ### 🛠️ Tech Stack
 
-**Front-End** — React · Next.js · TypeScript · Redux · Tailwind CSS · HTML5 · CSS3
-**Back-End** — Node.js · Express · Ruby on Rails · MongoDB · PostgreSQL · MySQL · Firebase
-**DevOps & Tools** — Git · GitHub · Heroku · Netlify · Chrome DevTools
+**Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36" height="36" alt="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="Next.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="36" height="36" alt="Express"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="Tailwind"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36" height="36" alt="Git"/>
-</p>
+**Front-End**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Back-End**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**Tools & DevOps**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Yorsyboy&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="Yorsyboy stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yorsyboy&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Yorsyboy top languages" />
-</p>
+[![Yorsyboy's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Yorsyboy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/Yorsyboy)
+[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yorsyboy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/Yorsyboy)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Yorsyboy&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -60,6 +71,6 @@ Full e-commerce storefront with product catalogue, cart, secure checkout, and pa
 <a href="https://www.linkedin.com/in/taiwo-toyosi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://twitter.com/Tboytaiwo" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 <a href="https://toyositaiwo.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="mailto:adekunletaiwo43@yahoo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="mailto:adekunletaiwo43@yahoo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"/></a>
 
 📬 **adekunletaiwo43@yahoo.com** · ttoyosi65@gmail.com
