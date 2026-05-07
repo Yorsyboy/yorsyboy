@@ -1,8 +1,8 @@
-![Banner](./Banner.gif)
+![Banner](./Toyosi_GitHub_Banner.png)
 
 ### Hi, I'm Toyosi 👋
 
-**Full-Stack Engineer based in Lagos, Nigeria.** I build fast, scalable web applications with React, Next.js, and Node.js — and I care about the numbers behind them: page-load times, conversion rates, server uptime.
+**Software Engineer based in Lagos, Nigeria.** I build fast, scalable web applications with React, Next.js, and Node.js — and I care about the numbers behind them: page-load times, conversion rates, server uptime.
 
 🔭 Currently building production web platforms and managing enterprise infrastructure at **BetaPlus International Synergy**
 🌱 Sharpening my skills in **TypeScript, Next.js App Router, and system design**
