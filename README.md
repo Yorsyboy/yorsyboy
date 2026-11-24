@@ -59,9 +59,6 @@ A global education platform for learners, educators, and institutions. Built the
 
 ### 📊 GitHub Activity
 
-[![Yorsyboy's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Yorsyboy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/Yorsyboy)
-[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yorsyboy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/Yorsyboy)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=Yorsyboy&theme=tokyonight&hide_border=true)
 
 ---
